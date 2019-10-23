@@ -5,5 +5,6 @@ array.each {|num|}
 num* num
    puts "#{num}"
 
-    new_array << square_array[array] ** 2
+    #new_array << square_array[array] ** 2
 end
+
