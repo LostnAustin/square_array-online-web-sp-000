@@ -5,7 +5,7 @@ array.each do |array, number|
   puts array[number]
 
     #new_array << square_array[array] ** 2
-
+end
 end
 #new_array = []
  #array.each do |number|
