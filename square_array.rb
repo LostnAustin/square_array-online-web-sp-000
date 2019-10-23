@@ -4,12 +4,12 @@ def square_array(array)
 
 array.each do |num|
 
-
+  puts new_array
 
     #new_array << square_array[array] ** 2
 end
 
-  puts new_array
+
 end
 #new_array = []
  #array.each do |number|
