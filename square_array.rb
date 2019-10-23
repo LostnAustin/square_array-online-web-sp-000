@@ -1,6 +1,6 @@
 require "pry"
 def square_array(array)
-  new_array = []
+  new_array << array[square_array] ** 2
   array.each do |number|
     number += 1
 end
