@@ -1,11 +1,12 @@
 require "pry"
 def square_array(array)
-  #new_array =[]
+  new_array =[]
 array.each do |num|
   puts "#{num * num}"
 
     #new_array << square_array[array] ** 2
 end
+new_array
 end
 #new_array = []
  #array.each do |number|
