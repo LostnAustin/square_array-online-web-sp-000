@@ -7,4 +7,3 @@ num* num
 
     #new_array << square_array[array] ** 2
 end
-
