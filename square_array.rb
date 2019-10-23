@@ -1,9 +1,9 @@
 require "pry"
 def square_array(array)
   new_array =
-array.collect {|num| 2**num}
+array.each {|num| 2**num}
 
-  puts new_array
+   new_array
 
     #new_array << square_array[array] ** 2
 end
