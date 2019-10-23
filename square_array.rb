@@ -5,7 +5,7 @@ def square_array(array)
     new_array << array[square_array] ** 2
     number += 1
 end
- return new_array
+  new_array
 end
 #new_array = []
  #array.each do |number|
