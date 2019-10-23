@@ -1,8 +1,10 @@
 require "pry"
 def square_array(array)
   new_array =[]
+  index = 0
 array.each do |num|
   puts "#{num * num}"
+  index =+ 1
 
     #new_array << square_array[array] ** 2
 end
