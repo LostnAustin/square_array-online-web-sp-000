@@ -8,8 +8,7 @@ array.each do |num|
 
     #new_array << square_array[array] ** 2
 end
-num
-end
+
 #new_array = []
  #array.each do |number|
   # new_array[number]
