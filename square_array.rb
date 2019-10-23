@@ -2,7 +2,7 @@ require "pry"
 def square_array(array)
   new_array =[]
 
-for  array.each {|number| puts number*number}
+for  array.each {|number| puts number*number;}
   #  new_array << array[square_array] ** 2
 
 
