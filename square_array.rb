@@ -4,7 +4,6 @@ def square_array(array)
 
 for  array.each do |number| puts number*number
     #new_array << square_array[array] ** 2
-end
 
 end
 #new_array = []
